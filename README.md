@@ -135,6 +135,7 @@ a set of rules that precisely define a sequence of operations.
   * `A` [Travelling Salesman Problem](src/algorithms/graph/travelling-salesman) - shortest possible route that visits each city and returns to the origin city
 * **Cryptography**
   * `B` [Polynomial Hash](src/algorithms/cryptography/polynomial-hash) - rolling hash function based on polynomial
+  * `B` [Caesar Cipher](src/algorithms/cryptography/caesar-cipher) - simple substitution cipher
 * **Machine Learning**
   * `B` [NanoNeuron](https://github.com/trekhleb/nano-neuron) - 7 simple JS functions that illustrate how machines can actually learn (forward/backward propagation)
 * **Uncategorized**
@@ -306,10 +307,4 @@ Below is the list of some of the most used Big O notations and their performance
 
 ## Supporting the project
 
-You may support this project via ❤️️ [GitHub](https://github.com/sponsors/trekhleb) or ❤️️ [Patreon](https://www.patreon.com/trekhleb).
-
-## JavaScript Algorithms Book
-
-Recently we've released a [JavaScript Algorithms Book](https://www.newline.co/javascript-algorithms) which contains detailed explanations of many popular algorithms and data structures implemented on JavaScript. You can check the full list of topics that are covered in the book and download the first chapter [here](https://www.newline.co/javascript-algorithms).
-            
-[![JavaScript Algorithms Book](https://raw.githubusercontent.com/trekhleb/javascript-algorithms/master/assets/js-algorithms-book-cover-xs.png)](https://www.newline.co/javascript-algorithms)            
+You may support this project via ❤️️ [GitHub](https://github.com/sponsors/trekhleb) or ❤️️ [Patreon](https://www.patreon.com/trekhleb).          
